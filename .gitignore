@@ -1,0 +1,6 @@
+*.zip
+*.rar
+*.log
+*.tar.gz
+*.tgz
+venv/
